@@ -1,0 +1,10 @@
+TK_legalsmate1.avi filter=lfs diff=lfs merge=lfs -text
+TK_scholarsmate3.avi filter=lfs diff=lfs merge=lfs -text
+TK_scholarsmate7.avi filter=lfs diff=lfs merge=lfs -text
+TK_Trompowsky.avi filter=lfs diff=lfs merge=lfs -text
+chessgame_2019-11-28_172745.avi filter=lfs diff=lfs merge=lfs -text
+chessgame_2019-12-05_195526.avi filter=lfs diff=lfs merge=lfs -text
+TK_scholarsmate2.avi filter=lfs diff=lfs merge=lfs -text
+TK_scholarsmate4.avi filter=lfs diff=lfs merge=lfs -text
+chessgame_2019-12-05_194647.avi filter=lfs diff=lfs merge=lfs -text
+TK_scholarsmate1.avi filter=lfs diff=lfs merge=lfs -text
