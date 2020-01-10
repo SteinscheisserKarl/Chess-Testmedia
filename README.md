@@ -20,4 +20,6 @@ all other Videos are of bad quality for move detection. You could try anyway... 
 scripts/run --input testMedia/TK_scholarsmate28.avi --warp '[[167,41],[544,39],[544,408],[167,407]]' --debug --nomoves --rotation 90<br />
 scripts/run --input testMedia/TK_scholarsmate25.avi --warp '[[531,84],[1374,81],[1363,919],[544,909]]' --debug --nomoves --rotation 90<br />
 scripts/run --input testMedia/TK_scholarsmate26.avi --autowarp --debug --nomoves --rotation 90<br />
+scripts/run --input testMedia/SGVR_10_Jan_2020_1.avi --autowarp --debug --nomoves --rotation 90<br />
+scripts/run --input testMedia/SGVR_10_Jan_2020_2.avi --warp '[[80,51],[234,44],[238,202],[83,204]]' --debug --rotation 90<br />
 <br />
